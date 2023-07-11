@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: technicalguftgamar/node-todo-app-cicd:latest
+    image: technicalguftgamar/node-todo-test:latest
     ports:
       - "8000:8000"
